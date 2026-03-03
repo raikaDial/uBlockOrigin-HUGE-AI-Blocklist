@@ -1780,7 +1780,7 @@ duckduckgo.com,bing.com##a[href*="ipv6.rs"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="homediningkitchen.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="psichologyanswers.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="umatechnology.org"]:upward(li):remove()
-duckduckgo.com,bing.com##a[href*="www.myheartliveshere.com"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="myheartliveshere.com"]:upward(li):remove()
 
 
 ! // VoiceMod shit
@@ -3581,7 +3581,7 @@ google.com##a[href*="ipv6.rs"]:upward(2):remove()
 google.com##a[href*="homediningkitchen.com"]:upward(2):remove()
 google.com##a[href*="psichologyanswers.com"]:upward(2):remove()
 google.com##a[href*="umatechnology.org"]:upward(2):remove()
-google.com##a[href*="www.myheartliveshere.com"]:upward(2):remove()
+google.com##a[href*="myheartliveshere.com"]:upward(2):remove()
 
 
 ! // VoiceMod shit

@@ -1778,7 +1778,7 @@
 *://*.homediningkitchen.com/*
 *://*.psichologyanswers.com/*
 *://*.umatechnology.org/*
-*://*.www.myheartliveshere.com/*
+*://*.myheartliveshere.com/*
 
 
 # // VoiceMod shit
